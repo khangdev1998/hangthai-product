@@ -1,0 +1,194 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Nước hoa cô cô chà neo hương cả ngày",
+            "price": "5.000.000₫",
+            "rating": "33฿",
+            "sold": "Đã bán 4 sản phẩm"
+        },
+        {
+            "id": 2,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Kem chống nắng nâng tone nhẹ nhàng, giúp da hồng hào",
+            "price": "370.000₫",
+            "rating": "68฿",
+            "sold": "Đã bán 150 sản phẩm"
+        },
+        {
+            "id": 3,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Nước hoa cô cô chà neo hương cả ngày",
+            "price": "5.000.000₫",
+            "rating": "33฿",
+            "sold": "Đã bán 4 sản phẩm"
+        },
+        {
+            "id": 4,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Kem chống nắng nâng tone nhẹ nhàng, giúp da hồng hào",
+            "price": "370.000₫",
+            "rating": "68฿",
+            "sold": "Đã bán 150 sản phẩm"
+        },
+        {
+            "id": 5,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Tai nghe không dây Sony WF-1000XM4",
+            "price": "4.500.000₫",
+            "rating": "48฿",
+            "sold": "Đã bán 22 sản phẩm"
+        },
+        {
+            "id": 6,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Balo thời trang Unisex Vans Old Skool",
+            "price": "950.000₫",
+            "rating": "35฿",
+            "sold": "Đã bán 10 sản phẩm"
+        },
+        {
+            "id": 7,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Giày thể thao Nike Air Max 270",
+            "price": "3.800.000₫",
+            "rating": "58฿",
+            "sold": "Đã bán 18 sản phẩm"
+        },
+        {
+            "id": 8,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Bộ quần áo thể thao Adidas Originals",
+            "price": "2.200.000₫",
+            "rating": "42฿",
+            "sold": "Đã bán 30 sản phẩm"
+        },
+        {
+            "id": 9,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Áo sơ mi nam trơn màu trắng",
+            "price": "600.000₫",
+            "rating": "23฿",
+            "sold": "Đã bán 70 sản phẩm"
+        },
+        {
+            "id": 10,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Laptop Dell XPS 13",
+            "price": "28.500.000₫",
+            "rating": "93฿",
+            "sold": "Đã bán 15 sản phẩm"
+        },
+        {
+            "id": 11,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Điện thoại iPhone 12 Pro Max 256GB",
+            "price": "34.000.000₫",
+            "rating": "85฿",
+            "sold": "Đã bán 45 sản phẩm"
+        },
+        {
+            "id": 12,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Máy ảnh Canon EOS 5D Mark IV",
+            "price": "55.000.000₫",
+            "rating": "105฿",
+            "sold": "Đã bán 12 sản phẩm"
+        },
+        {
+            "id": 13,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Ống kính Sony FE 24-70mm F2.8 GM",
+            "price": "45.000.000₫",
+            "rating": "65฿",
+            "sold": "Đã bán 8 sản phẩm"
+        },
+        {
+            "id": 14,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Loa Bluetooth JBL Flip 5",
+            "price": "2.500.000₫",
+            "rating": "75฿",
+            "sold": "Đã bán 38 sản phẩm"
+        },
+        {
+            "id": 15,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Đồng hồ thông minh Apple Watch Series 6",
+            "price": "12.000.000₫",
+            "rating": "80฿",
+            "sold": "Đã bán 27 sản phẩm"
+        },
+        {
+            "id": 16,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Máy xay sinh tố Philips HR3652",
+            "price": "3.500.000₫",
+            "rating": "58฿",
+            "sold": "Đã bán 18 sản phẩm"
+        },
+        {
+            "id": 17,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Bàn phím cơ Logitech G Pro X",
+            "price": "3.200.000₫",
+            "rating": "45฿",
+            "sold": "Đã bán 40 sản phẩm"
+        },
+        {
+            "id": 18,
+            "platform": "Lazada",
+            "icon_url": "assets/images/lazada.png",
+            "image_url": "assets/images/product-image-lazada.png",
+            "title": "Máy chiếu mini XGIMI MoGo Pro",
+            "price": "10.000.000₫",
+            "rating": "63฿",
+            "sold": "Đã bán 12 sản phẩm"
+        },
+        {
+            "id": 19,
+            "platform": "Shopee",
+            "icon_url": "assets/images/shoppe.png",
+            "image_url": "assets/images/product-image-shoppe.png",
+            "title": "Tivi Samsung 4K UHD 55 inch",
+            "price": "18.000.000₫",
+            "rating": "72฿",
+            "sold": "Đã bán 35 sản phẩm"
+        }
+    ]
+}
